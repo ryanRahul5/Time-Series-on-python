@@ -7,16 +7,6 @@ Created on Thu Jun 30 18:06:27 2016
 
 ################ Time series analysis of futures data using pandas
 
-
-# REFERENCE LINKS:
-
-#http://www.johnwittenauer.net/a-simple-time-series-analysis-of-the-sp-500-index/
-#http://earthpy.org/pandas-basics.html
-#http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/   *****
-#http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/     ****
-
-
-
 import pandas as pd
 import numpy as np
 import matplotlib.pylab as plt
